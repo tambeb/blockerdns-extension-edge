@@ -1,2 +1,2 @@
-# blockerdns-extension-edge
-blockerDNS extension for Microsoft Edge
+# blockerdns-extension
+blockerDNS Chrome Extension
