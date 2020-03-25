@@ -11,4 +11,4 @@ If you want to modify the code or play around with it, you can sideload it into 
 ```
 git clone https://github.com/tambeb/blockerdns-extension-edge.git
 ```
-Then go to Chrome's extension settings by typing __edge://extensions/__ in the address bar, enable __Developer mode__, choose __Load unpacked__ and go to the extracted or cloned folder.
+Then go to Chrome's extension settings by typing __edge://extensions__ in the address bar, enable __Developer mode__, choose __Load unpacked__ and go to the extracted or cloned folder.
