@@ -7,7 +7,7 @@
 You can install the latest published version from the [Microsoft Edge Addons Store](https://microsoftedge.microsoft.com/addons/detail/hfkimamjcihdjcpigopphgacppocobpf).
 
 ## Install from Source
-If you want to modify the code or play around with it, you can sideload it into Chrome. First download and extract the [ZIP file](https://github.com/tambeb/blockerdns-extension-edge/archive/master.zip) or clone the repository.
+If you want to modify the code or play around with it, you can sideload it into (Chromium) Edge. First download and extract the [ZIP file](https://github.com/tambeb/blockerdns-extension-edge/archive/master.zip) or clone the repository.
 ```
 git clone https://github.com/tambeb/blockerdns-extension-edge.git
 ```
